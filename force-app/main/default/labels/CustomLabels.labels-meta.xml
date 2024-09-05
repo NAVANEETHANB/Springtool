@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>DefaultContactBirthdate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FOR DLP&amp;YOU and QUALIFIO</shortDescription>
+        <value>01/01/1910</value>
+    </labels>
+</CustomLabels>
